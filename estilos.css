@@ -1,0 +1,181 @@
+.contenedor{
+    text-align: center;
+    color: rgb(94, 2, 232);
+    font-size: 24px;
+    background-color: rgb(228, 219, 253);
+}
+.title1 {
+    text-align: center;
+    color: rgb(250, 252, 158);
+    font-size: 50px;
+    background-color: rgb(125, 96, 204);
+}
+.titulo2 {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(61, 69, 188);
+}
+.titulo3 {
+    text-align: center;
+    color: rgb(250, 252, 158);
+    font-size: 50px;
+    background-color: rgb(125, 96, 204);
+}
+.titulo4{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(63, 92, 238);
+}
+.titulo5{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(63, 92, 238);
+}
+.img {
+    height: 350px;
+    width: 900px;
+    background-color: aqua;
+}
+.ticen{
+    text-align: center;
+    font-size: 48px;
+    color: rgb(56, 27, 221);
+}
+.botoness{
+    background-color: rgb(140, 78, 202);
+    padding: 20px;
+    border: rgb(18, 19, 22)  3px solid;
+    color: azure;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 33PX;
+}
+body{
+background-image: url("otra.png");
+background-size: cover;
+background-repeat: no-repeat;
+}
+.vid{
+   /* width: 100%;
+    display: flex;
+    align-items: center;
+    */
+    position: relative;
+    left: 700px;
+}
+.vid video{
+    /*display: inline-flex;*/
+}
+.clt {
+    background-color: rgb(140, 78, 202);
+    padding: 20px;
+    border: rgb(18, 19, 22)  3px solid;
+    color: azure;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 33PX;
+}
+.ani{
+    background-color: rgb(140, 78, 202);
+    padding: 20px;
+    border: rgb(18, 19, 22)  3px solid;
+    color: azure;
+    font-weight: bold;
+    border-radius: 10px;    
+    font-size: 33PX;
+}
+.vol{
+    background-color: rgb(25, 24, 26);
+    padding: 30px;
+    border: rgb(18, 19, 22)  3px solid;
+    color: azure;
+    font-weight: bold;
+    border-radius: 20px;    
+    font-size: 10PX; 
+}
+.nom{
+    font-size: 30px;
+}
+.contac{
+    font-size: 30px;
+}
+.tit{
+    text-align: center;
+    color: rgb(250, 252, 158);
+    font-size: 44px;
+    background-color: rgb(125, 96, 204);
+}
+.cup{
+    height: 190px;
+    width: 399px;
+    
+}
+.quep{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(36, 6, 85);
+}
+.OP{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.anim{
+    text-align: center;
+    color: rgb(250, 252, 158);
+    font-size: 50px;
+    background-color: rgb(125, 96, 204);
+}
+.anii{
+    height: 290px;
+    width: 399px;
+}
+.qan{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(36, 6, 85);
+}
+.yo{
+    height: 300px;
+    width: 399px;
+}
+.nov{
+    position: absolute;
+    height: 370px;
+    left: 75px;
+    top: 600PX;
+}
+.RR{
+    position: absolute; 
+    height: 400px;
+    right: 200px;
+    top: 600PX;
+}
+.promo{
+    position: absolute;
+    height: 600px;
+    right: 760px;
+    top: 600PX;
+}
+.des{
+    position: center;
+    height: 300px;
+    right: 730px;
+    top: 300PX;
+}
+.enm{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(223, 32, 32);  
+}
+.for{
+    text-align: center;
+    color: rgb(250, 252, 158);
+    font-size: 44px;
+    background-color: rgb(125, 96, 204);
+}
+.AJ{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
